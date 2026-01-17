@@ -23,6 +23,8 @@ jupyter:
 #title-block-banner: true
 ---
 
+#Adopted from ChatGPT
+
 ## How Many LeetCode Problems Do You Really Need to Pass a Coding Interview?
 
 If you search online for advice on preparing for coding interviews, one recommendation appears again and again: “Just do more LeetCode.” LeetCode is a popular platform that hosts thousands of programming problems, commonly used by candidates preparing for technical interviews in software engineering and data-related roles.

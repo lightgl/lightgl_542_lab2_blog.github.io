@@ -25,14 +25,14 @@
     "href": "index.html",
     "title": "How to Prepare for Coding Interviews Without Grinding Forever",
     "section": "",
-    "text": "If you search online for advice on preparing for coding interviews, one recommendation appears again and again: “Just do more LeetCode.” LeetCode is a popular platform that hosts thousands of programming problems, commonly used by candidates preparing for technical interviews in software engineering and data-related roles.\nThis advice naturally leads to a deceptively simple question: how many LeetCode problems do you actually need to do to pass a coding interview? Is it 50? 100? 500? Or is there no meaningful number at all?\nIn this post, we’ll explore why this question matters, why the answer is more nuanced than most people expect, and how a data-driven mindset can help us think about interview preparation more effectively."
+    "text": "#Adopted from ChatGPT"
   },
   {
     "objectID": "index.html#how-many-leetcode-problems-do-you-really-need-to-pass-a-coding-interview",
     "href": "index.html#how-many-leetcode-problems-do-you-really-need-to-pass-a-coding-interview",
     "title": "How to Prepare for Coding Interviews Without Grinding Forever",
-    "section": "",
-    "text": "If you search online for advice on preparing for coding interviews, one recommendation appears again and again: “Just do more LeetCode.” LeetCode is a popular platform that hosts thousands of programming problems, commonly used by candidates preparing for technical interviews in software engineering and data-related roles.\nThis advice naturally leads to a deceptively simple question: how many LeetCode problems do you actually need to do to pass a coding interview? Is it 50? 100? 500? Or is there no meaningful number at all?\nIn this post, we’ll explore why this question matters, why the answer is more nuanced than most people expect, and how a data-driven mindset can help us think about interview preparation more effectively."
+    "section": "How Many LeetCode Problems Do You Really Need to Pass a Coding Interview?",
+    "text": "How Many LeetCode Problems Do You Really Need to Pass a Coding Interview?\nIf you search online for advice on preparing for coding interviews, one recommendation appears again and again: “Just do more LeetCode.” LeetCode is a popular platform that hosts thousands of programming problems, commonly used by candidates preparing for technical interviews in software engineering and data-related roles.\nThis advice naturally leads to a deceptively simple question: how many LeetCode problems do you actually need to do to pass a coding interview? Is it 50? 100? 500? Or is there no meaningful number at all?\nIn this post, we’ll explore why this question matters, why the answer is more nuanced than most people expect, and how a data-driven mindset can help us think about interview preparation more effectively."
   },
   {
     "objectID": "index.html#why-do-we-want-to-know-this",
