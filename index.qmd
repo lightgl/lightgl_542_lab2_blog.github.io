@@ -1,14 +1,144 @@
 ---
-title: "542_lab2_blog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "How to Prepare for Coding Interviews Without Grinding Forever"
+subtitle: "More Isn’t Always Better"
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .qmd
+      format_name: quarto
+      format_version: '1.0'
+      jupytext_version: 1.15.2
+  kernelspec:
+    display_name: Python 3 (ipykernel)
+    language: python
+    name: python3
+#listing:
+#  contents: posts
+#  sort: "date desc"
+#  type: default
+#  categories: true
+#  sort-ui: false
+#  filter-ui: false
+#page-layout: full
+#title-block-banner: true
 ---
 
-542 lab2 blog
+## How Many LeetCode Problems Do You Really Need to Pass a Coding Interview?
+
+If you search online for advice on preparing for coding interviews, one recommendation appears again and again: “Just do more LeetCode.” LeetCode is a popular platform that hosts thousands of programming problems, commonly used by candidates preparing for technical interviews in software engineering and data-related roles.
+
+This advice naturally leads to a deceptively simple question: how many LeetCode problems do you actually need to do to pass a coding interview? Is it 50? 100? 500? Or is there no meaningful number at all?
+
+In this post, we’ll explore why this question matters, why the answer is more nuanced than most people expect, and how a data-driven mindset can help us think about interview preparation more effectively.
+
+## Why Do We Want to Know This?
+
+Preparing for coding interviews is time-consuming and stressful. Many candidates are students or working professionals juggling full-time jobs, classes, or personal responsibilities. Time spent grinding practice problems often comes at the expense of rest, social life, or other learning opportunities.
+
+From a data science perspective, this is a classic resource allocation problem: how do we spend limited time to maximize the probability of success? If doing 300 problems is not significantly better than doing 120 problems well, then blindly increasing volume is inefficient.
+
+There is also a strong psychological component. Candidates frequently compare themselves to others online who claim to have solved hundreds or even thousands of problems. This creates anxiety and the false impression that success is primarily about endurance rather than understanding.
+
+## What Are Coding Interviews Actually Testing?
+
+Before answering how many problems are “enough,” it helps to clarify what coding interviews are designed to evaluate.
+
+Despite appearances, interviews are not memory tests. Interviewers are rarely checking whether you have seen the exact problem before. Instead, they are assessing:
+
+How you break down a problem
+
+How you communicate your thinking
+
+How you handle edge cases and mistakes
+
+Whether you can adapt known ideas to new situations
+
+In other words, interviews test problem-solving ability under uncertainty. LeetCode is simply a training dataset—not the objective itself.
+
+## So… How Many Problems Are Enough?
+
+There is no universal number that guarantees success. Different companies, roles, and interviewers emphasize different skills. Someone with a strong computer science background may need fewer problems than someone encountering these concepts for the first time.
+
+That said, based on common reports from candidates and interviewers, many people pass coding interviews after completing roughly 100 to 200 well-chosen LeetCode problems.
+
+This range is not special because of the number itself. It works because it is often sufficient to expose candidates to the most common problem patterns that appear in interviews. Once these patterns are understood, new problems become variations rather than entirely new challenges.
+
+## The Trap of Counting Problems
+
+A common mistake is treating LeetCode progress as a scoreboard: more problems equals better preparation. This is an example of optimizing the wrong metric.
+
+From a data science standpoint, this is similar to overfitting. You may perform extremely well on the training data (solving many familiar problems) but fail to generalize to new data (unseen interview questions). Interview success depends on generalization, not memorization.
+
+Two candidates who have both solved 150 problems may be at very different levels. One may recognize patterns and explain solutions clearly, while the other may rely on vague recollection and struggle to adapt.
+
+## Quality vs. Quantity: New Problems or Re-solving Old Ones?
+
+This leads to an important strategic question: should you keep doing new problems, or should you go back and re-solve old ones?
+
+Many candidates underestimate the value of re-solving. When you revisit a problem after some time and can:
+
+Solve it more quickly
+
+Explain it clearly in plain language
+
+Modify the solution when constraints change
+
+you are demonstrating real understanding. This is exactly the skill interviews reward.
+
+In contrast, constantly chasing new problems can give the illusion of progress while reinforcing shallow familiarity. In learning science, this is known as the difference between recognition (“this looks familiar”) and recall (“I can do this from scratch”).
+
+## The Role of Patterns (Without the Jargon)
+
+One reason LeetCode works at all is that many problems follow a small set of recurring ideas, often called patterns. A pattern is simply a reusable way of approaching a problem.
+
+For example:
+
+Some problems involve scanning through a list efficiently
+
+Some involve breaking a big problem into smaller subproblems
+
+Others involve exploring multiple possibilities and choosing the best one
+
+You don’t need to memorize fancy names to benefit from this. What matters is recognizing that different-looking problems often share the same underlying structure.
+
+From a data science perspective, patterns are like features. Once you learn which features matter, the problem becomes much easier to model—even when the surface details change.
+
+## A More Effective Preparation Strategy
+
+Instead of asking “How many problems should I do?”, a more productive question is:
+
+Which ideas do I understand well enough to apply in new situations?
+
+An effective strategy often looks like this:
+
+Identify a core set of common problem types
+
+Solve a representative sample of problems for each type
+
+Revisit problems after a delay and explain them out loud
+
+Practice under mild time pressure to simulate interviews
+
+This approach emphasizes depth over breadth and aligns closely with how learning transfers to real interviews.
+
+## Why Online Advice Can Be Misleading
+
+Many blog posts and forum answers suffer from survivorship bias. We tend to hear from people who succeeded, not from those who used the same strategy and failed. Someone who solved 600 problems and got hired may attribute success to volume, even if fewer problems would have sufficed.
+
+As data scientists, we should be cautious about drawing conclusions from anecdotal evidence without knowing the full population.
+
+## Final Takeaway
+
+There is no magic number of LeetCode problems that guarantees interview success. For most people, the effective range is far lower than the internet suggests.
+
+What matters is not how many problems you’ve completed, but whether you can:
+
+Recognize underlying patterns
+
+Explain your reasoning clearly
+
+Adapt your approach when constraints change
+
+In short, understanding beats grinding. If you approach interview preparation with the same mindset you would apply to a data science problem—optimizing for signal, not noise—you’ll not only prepare more efficiently, but also with far less stress.
+
+And that, ultimately, is the real advantage.
